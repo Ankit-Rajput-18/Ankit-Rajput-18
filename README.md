@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on MERN Stack <br>i'm currently learning Full Stack Development<br>Eager to contribyute in industries level project <br>Looking for the MERN Stack developer job
+i'm currently working on MERN Stack <br>i'm currently learning Full Stack Development<br>Eager to contribute in industries level project <br>Looking for the MERN Stack developer job
 
 
 ## 🌐 Socials:
