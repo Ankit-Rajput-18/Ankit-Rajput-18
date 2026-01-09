@@ -1,166 +1,58 @@
-<div align="center">
-  
-# 👋 Hi, I'm Ankit Rajput
+<!-- ULTRA PREMIUM ANIMATED HEADER --><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ANKIT%20RAJPUT&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20MERN%20Stack%20Developer%20|%20Full%20Stack%20Engineer%20|%20Problem%20Solver%20⚡&descAlignY=60&descSize=22"/><!-- PREMIUM TYPING ANIMATION --><div align="center">  <a href="https://git.io/typing-svg">    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;%F0%9F%9A%80+Crafting+Production-Ready+Web+Applications;%F0%9F%92%BB+MERN+Stack+%7C+Next.js+%7C+TypeScript+%7C+AWS;%F0%9F%8E%AF+Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG" />  </a></div><!-- ANIMATED WAVE --><p align="center">  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p><!-- PREMIUM BADGE SECTION --><p align="center">  <a href="https://github.com/Ankit-Rajput-18">    <img src="https://img.shields.io/badge/🔥_Profile_Status-Active-00ff00?style=for-the-badge&labelColor=000000" alt="Status"/>  </a>  <img src="https://komarev.com/ghpvc/?username=Ankit-Rajput-18&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>  <a href="https://github.com/Ankit-Rajput-18?tab=followers">    <img src="https://img.shields.io/github/followers/Ankit-Rajput-18?label=FOLLOWERS&style=for-the-badge&color=00d4ff&labelColor=000000" alt="Followers"/>  </a>  <a href="https://github.com/Ankit-Rajput-18?tab=repositories">    <img src="https://img.shields.io/badge/REPOSITORIES-25+-ff6b6b?style=for-the-badge&labelColor=000000" alt="Repos"/>  </a></p><p align="center">  <img src="https://img.shields.io/badge/💼_Seeking-MERN_Developer_Roles-blueviolet?style=for-the-badge&labelColor=000000"/>  <img src="https://img.shields.io/badge/📍_Location-India_🇮🇳-success?style=for-the-badge&labelColor=000000"/>  <img src="https://img.shields.io/badge/💻_Focus-Full_Stack_Development-blue?style=for-the-badge&labelColor=000000"/></p><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!--                           ABOUT ME SECTION                               --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center">  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=250&lines=About+Me" alt="About Me" />  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2><!-- ANIMATED INTRO BANNER --><p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Ankit+👋;A+Passionate+Full+Stack+Developer+🚀;Building+Dreams+One+Line+at+a+Time+💻" alt="Intro" /></p><table align="center" border="0"><tr><td width="50%" valign="top"><!-- ANIMATED CODING GIF --><p align="center">  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/></p><p align="center">  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/></p></td><td width="50%" valign="top">```javascriptconst AnkitRajput = {    pronouns: "He" | "Him",    location: "India 🇮🇳",    currentRole: "MERN Stack Developer",        expertise: {        frontend: ["React", "Next.js", "TypeScript"],        backend: ["Node.js", "Express", "REST APIs"],        database: ["MongoDB", "PostgreSQL", "Redis"],        cloud: ["AWS", "Docker", "Vercel"]    },        currentlyLearning: [        "System Design",        "Microservices Architecture",        "Kubernetes & DevOps"    ],        passions: [        "Building Scalable Apps",        "Clean Code Architecture",        "Problem Solving"    ],        funFact: "I debug with console.log               and I'm proud of it! 😎",        motto: "First solve the problem,             then write the code.",        availableForHire: true ✅};
+</td> </tr> </table><!-- ANIMATED HIGHLIGHTS --><div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"> </div><!-- QUICK FACTS CARDS --><h3 align="center">⚡ Quick Facts About Me ⚡</h3><div align="center"> <table> <tr> <td> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> </td> <td> <b>🔭 Currently Working On:</b> Full Stack Production-Ready Applications </td> </tr> <tr> <td> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"/> </td> <td> <b>🌱 Currently Learning:</b> Next.js 14, TypeScript, AWS & System Design </td> </tr> <tr> <td> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> </td> <td> <b>👯 Looking to Collaborate:</b> On innovative MERN Stack Projects </td> </tr> <tr> <td> <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30"/> </td> <td> <b>💬 Ask Me About:</b> React, Node.js, MongoDB, REST APIs, TypeScript </td> </tr> <tr> <td> <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30"/> </td> <td> <b>⚡ Fun Fact:</b> I can turn ☕ into </> in no time! </td> </tr> </table> </div><!-- QUICK INFO BADGES --><p align="center"> <img src="https://img.shields.io/badge/🔭_Working_On-Full_Stack_Projects-00d4ff?style=for-the-badge&labelColor=0d1117"/> <img src="https://img.shields.io/badge/🌱_Learning-Next.js_|_TypeScript_|_AWS-00ff88?style=for-the-badge&labelColor=0d1117"/> </p> <p align="center"> <img src="https://img.shields.io/badge/👯_Open_To-Collaborations-ff6b6b?style=for-the-badge&labelColor=0d1117"/> <img src="https://img.shields.io/badge/💬_Ask_Me_About-MERN_Stack-blueviolet?style=for-the-badge&labelColor=0d1117"/> </p><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- TECH ARSENAL SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=300&lines=Tech+Arsenal" alt="Tech Stack" /> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2><!-- ANIMATED TECH ICONS --><p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628571e.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"> </p><!-- SKILL ICONS --><p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgresql,redis,graphql&theme=dark" /> </a> </p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,materialui,bootstrap,git,github,docker,aws&theme=dark" /> </a> </p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=vercel,vscode,postman,figma,linux,npm,yarn,redux,firebase,prisma&theme=dark" /> </a> </p><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- SKILLS & EXPERTISE SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&lines=Skills+%26+Expertise" alt="Skills" /> <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> </h2><!-- SKILL CATEGORIES WITH ANIMATED ICONS --><details open> <summary><h3>🎨 Frontend Development</h3></summary> <br> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/> </p> </details><details open> <summary><h3>⚙️ Backend Development</h3></summary> <br> <p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/> </p> </details><details open> <summary><h3>🗄️ Database & Storage</h3></summary> <br> <p align="center"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> </p> </details><details open> <summary><h3>☁️ Cloud & DevOps</h3></summary> <br> <p align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>  </p> </details><details open> <summary><h3>🛠️ Tools & Platforms</h3></summary> <br> <p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> </p> </details><!-- SKILL PROGRESS BARS --><h3 align="center">📊 Skill Proficiency</h3><table align="center" border="0"> <tr> <td width="50%" valign="top">
 
-### 🚀 MERN Stack Developer | Full Stack Enthusiast | Problem Solver
+text
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Open+to+Exciting+Opportunities" alt="Typing SVG" />
 
-</div>
+🎨 Frontend Development━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━React.js       ████████████████████  95%Next.js        ██████████████████░░  88%TypeScript     █████████████████░░░  85%JavaScript     ████████████████████  95%Tailwind CSS   ██████████████████░░  90%Redux          █████████████████░░░  85%HTML/CSS       ████████████████████  95%
 
----
+text
 
-## 💫 About Me
 
-```javascript
-const ankit = {
-    location: "India 🇮🇳",
-    role: "MERN Stack Developer",
-    currentFocus: "Building production-ready full stack applications",
-    learning: ["Next.js", "TypeScript", "System Design", "Cloud Architecture"],
-    expertise: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    interests: ["Machine Learning", "Cloud Computing", "Open Source"],
-    lookingFor: "MERN Stack Developer opportunities",
-    lifePhilosophy: "Code, Learn, Build, Repeat 🔄"
-};
-```
+🗄️ Database & Storage━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━MongoDB        ████████████████████  93%PostgreSQL     █████████████████░░░  85%MySQL          ██████████████░░░░░░  70%
+</td> <td width="50%" valign="top">
 
-<div align="center">
+text
 
-### 🎯 Current Mission
-**Mastering Full Stack Development** while building impactful projects that solve real-world problems
 
-</div>
+⚙️ Backend Development━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━Node.js        ████████████████████  95%Express.js     ██████████████████░░  92%REST APIs      ████████████████████  95% Authentication ██████████████████░░  90%
 
----
+text
 
-## 🛠️ Tech Arsenal
 
-<div align="center">
+☁️ Cloud & DevOps━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━AWS            ███████████████░░░░░  75%Docker         ████████████████░░░░  60%Git/GitHub     ████████████████████  95%CI/CD          ██████████████░░░░░░  70%
+</td> </tr> </table><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- GITHUB ANALYTICS SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=350&lines=GitHub+Analytics" alt="Stats" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> </h2><!-- GITHUB STATS CARDS --><p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankit-Rajput-18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Rajput-18&theme=radical&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=00d4ff&dates=888888" alt="Streak Stats"/> </p><!-- CONTRIBUTION GRAPH --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Rajput-18&custom_title=Ankit's%20Contribution%20Graph&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&radius=16" width="100%"/> </p><!-- LANGUAGE STATS --><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Rajput-18&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="35%"/> </p><!-- TROPHIES --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ankit-Rajput-18&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/> </p><!-- SUMMARY CARD --><p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Rajput-18&theme=radical" width="100%"/> </p><p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Rajput-18&theme=radical" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankit-Rajput-18&theme=radical" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankit-Rajput-18&theme=radical&utcOffset=5.5" width="32%"/> </p><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- FEATURED PROJECTS SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="40"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&lines=Featured+Projects" alt="Projects" /> <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="40"> </h2><p align="center"> <a href="https://github.com/Ankit-Rajput-18?tab=repositories"> <img src="https://img.shields.io/badge/🔗_View_All_Repositories-Click_Here-00d4ff?style=for-the-badge&labelColor=0d1117"/> </a> </p><div align="center"> <a href="https://github.com/Ankit-Rajput-18"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Rajput-18&repo=Ankit-Rajput-18&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff" width="49%"/> </a> </div><!-- PROJECT SHOWCASE --><table align="center" border="0"> <tr> <td width="50%" valign="top">
+🚀 Staysphere
+<img src="https://img.shields.io/badge/MERN-Stack-00d4ff?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Completed-00ff00?style=flat-square"/>
+Developed a secure accommodation platform with listing visibility, owner-level controls, and 
+customer review features.
+Used the MVC for structure and RestfulAPIs .
+Built with  Node.js, MongoDB, styled with Tailwind CSS, and deployed on Render. Tech: React • Node.js • MongoDB • Stripe • Redux
+</td> <td width="50%" valign="top">
+💬 Mini-CRM
+<img src="https://img.shields.io/badge/Socket.io-Enabled-ff6b6b?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Live-00ff00?style=flat-square"/>
+uilt a role-based CRM with JWT authentication and secure admin/user access. 
+Enabled customer and lead lifecycle management with search, pagination, and status tracking. 
+Integrated dashboard analytics using Recharts for lead insights.
+Delivered responsive UI with TailwindCSS, toast feedback, and validated forms.
+Implemented CSV/JSON export, international phone input, and admin seeding via script. 
+Tech: React • Express.js • Node.js • MongoDB • JWT
+</td> </tr> <tr> <td width="50%" valign="top">
+📊 Pokemon-Viewer
+<img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Active-00ff00?style=flat-square"/>
+reated an interactive Pokémon explorer leveraging PokéAPI.
+Implemented search, stats visualization,fight simulation , badge earning and responsive UI using 
+React.js, Axios, and Tailwind CSS. 
+Tech: Next.js • TypeScript • Prisma • PostgreSQL • Tailwind
+</td> <td width="50%" valign="top">
+🎯 Portfolio Website
+<img src="https://img.shields.io/badge/Animations-Framer_Motion-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Live-00ff00?style=flat-square"/>
+A modern, responsive personal portfolio built with React to showcase my projects, skills, and professional experience. The website is designed to be fast, interactive, and visually appealing, with a focus on clean code and a smooth user experience.
+Tech: React.js • Framer Motion • Tailwind CSS • Javascript
+</td> </tr> </table><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- CODING ACTIVITY SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=350&lines=Coding+Activity" alt="Activity" /> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> </h2><!-- WEEKLY CODING BREAKDOWN --><div align="center">
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+text
 
-### ⚙️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🔧 Tools & Others
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankit-Rajput-18&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Ankit-Rajput-18&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Rajput-18&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Rajput-18&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Ankit-Rajput-18&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 💼 What I'm Looking For
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎯 Opportunities] --> B[MERN Stack Developer]
-    A --> C[Full Stack Developer]
-    A --> D[Industry-Level Projects]
-    B --> E[🚀 Let's Build Together]
-    C --> E
-    D --> E
-```
-
-</div>
-
-I'm actively seeking opportunities where I can contribute my skills in building scalable, efficient, and user-friendly web applications. Whether it's a startup or an established company, I'm ready to add value through clean code and innovative solutions.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-rajput-706b47262/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitrajput02004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit-Rajput-18)
-
-### 💬 Open for:
-**Freelance Projects** | **Collaboration** | **Full-time Opportunities** | **Open Source Contributions**
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎯 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=Ankit-Rajput-18&icon=2&color=6)](https://visitcount.itsvg.in)
-
----
-
-### ⭐ Show some love by starring my repositories!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-**💡 "First, solve the problem. Then, write the code." - John Johnson**
-
-*Made with ❤️ by Ankit Rajput*
-
-</div>
+💻 Weekly Development Breakdown━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━JavaScript   ████████████░░░░░░░░   35.50 %TypeScript   ████████░░░░░░░░░░░░   22.15 %React/JSX    ███████░░░░░░░░░░░░░   18.30 %CSS/SCSS     █████░░░░░░░░░░░░░░░   12.20 %JSON         ███░░░░░░░░░░░░░░░░░    7.85 %Other        █░░░░░░░░░░░░░░░░░░░    4.00 %
+</div><!-- METRICS --><div align="center"> <table> <tr> <td> <img src="https://img.shields.io/badge/⏰_This_Week-35+_Hours-00d4ff?style=for-the-badge&labelColor=0d1117"/> </td> <td> <img src="https://img.shields.io/badge/📝_Lines_Written-10K+-ff6b6b?style=for-the-badge&labelColor=0d1117"/> </td> <td> <img src="https://img.shields.io/badge/☕_Coffees-50+-brown?style=for-the-badge&labelColor=0d1117"/> </td> <td> <img src="https://img.shields.io/badge/🐛_Bugs_Squashed-100+-00ff00?style=for-the-badge&labelColor=0d1117"/> </td> </tr> </table> </div><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- CONNECT SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> </h2> <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&lines=Let's+Connect!" alt="Connect" /> </h2><!-- SOCIAL LINKS --><p align="center"> <a href="https://www.linkedin.com/in/ankit-rajput-706b47262/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ankitrajput02004@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://github.com/Ankit-Rajput-18" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.instagram.com/ankit_rajput298/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://discord.com/channels/@me" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> </p><!-- ANIMATED CONTACT ICONS --><p align="center"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="60"> <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"> </p><!-- HIRE ME SECTION --><div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=💼+Currently+Seeking+MERN+Stack+Developer+Roles!;🌟+Open+for+Freelance+%26+Contract+Projects!;🤝+Let's+Build+Something+Amazing+Together!;📧+Feel+Free+to+Reach+Out+Anytime!" alt="Hiring" /> </div><!-- CONTACT CARD --><div align="center"> <table> <tr> <td> <img src="https://img.shields.io/badge/📧_Email-ankitrajput02004%40gmail.com-D14836?style=for-the-badge&labelColor=0d1117"/> </td> </tr> <tr> <td> <img src="https://img.shields.io/badge/💼_Open_To-Full_Time_|_Remote_|_Hybrid-00d4ff?style=for-the-badge&labelColor=0d1117"/> </td> </tr> <tr> <td> <img src="https://img.shields.io/badge/⏰_Response_Time-Within_24_Hours-00ff00?style=for-the-badge&labelColor=0d1117"/> </td> </tr> </table> </div><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- SNAKE ANIMATION SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=350&lines=🐍+Contribution+Snake" alt="Snake" /> </h2><p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" /> </picture> </p><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- SPOTIFY SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=350&lines=🎵+Coding+Vibes" alt="Music" /> </h2><p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00d4ff&bar_color_cover=true" width="400"/> </p><p align="center"> <i>"Music is the fuel that keeps my code running!"</i> 🎧 </p><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- QUOTE SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&lines=💡+Dev+Quote+of+the+Day" alt="Quote" /> </h2><p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600"/> </p><!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- SUPPORT SECTION --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=350&lines=☕+Support+My+Work" alt="Support" /> </h2><p align="center"> <a href="https://www.buymeacoffee.com/ankitrajput" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/> </a> </p><p align="center"> <i>If you like my work, consider buying me a coffee! ☕</i> </p><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- FOOTER --><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- ANIMATED FOOTER --><p align="center"> <img  </p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer"/><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🙏;Don't+forget+to+⭐+my+repositories!;Let's+build+something+amazing+together!+🚀" alt="Footer" /> </p><p align="center"> <img src="https://img.shields.io/badge/Made_with-❤️-ff0000?style=for-the-badge"/> <img src="https://img.shields.io/badge/By-Ankit_Rajput-00d4ff?style=for-the-badge"/> <img src="https://img.shields.io/badge/Year-2024-blueviolet?style=for-the-badge"/> </p><p align="center"> <b>© 2024 Ankit Rajput | Built with ❤️ | First, solve the problem. Then, write the code.</b> </p><!-- LAST UPDATED --><p align="center"> <img src="https://img.shields.io/badge/⏰_Last_Updated-January_2024-00d4ff?style=flat-square&labelColor=0d1117"/> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1"/> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ankit-Rajput-18&label=Total+Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views Counter"/> 
